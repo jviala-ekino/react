@@ -21,6 +21,6 @@ module.exports = Object.assign({}, eslintrc, {
     sourceType: 'script',
   },
   rules: {
-    strict: ERROR,
+    strict: 'AHAHAHAH',
   },
 });
